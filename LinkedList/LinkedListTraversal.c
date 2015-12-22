@@ -39,10 +39,7 @@ int main()
     third->data = 1 ;
     third->next = null ;
 
-     printList(head) ;
+    printList(head) ;
 
-
-
-
-	return 0;
+    return 0;
 }
