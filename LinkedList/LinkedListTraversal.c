@@ -23,7 +23,7 @@ void printList(struct Node* ptr)
 int main()
 {
 
-	struct Node* head = NULL ;
+	  struct Node* head = NULL ;
     struct Node* second = NULL ;
     struct Node* third = NULL ;
 
