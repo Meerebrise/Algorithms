@@ -35,10 +35,10 @@ int main()
     head->data = 1 ;
     head->next = second ;
 
-    second->data = 1 ;
+    second->data = 2 ;
     second->next = third ;
 
-    third->data = 1 ;
+    third->data = 3 ;
     third->next = NULL ;
 
     printList(head) ;
